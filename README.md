@@ -5,15 +5,15 @@ A Unity Project which helps map time dependent and independent functions into 3D
 Some of the patterns created include:
 
 1. Ripple  
-![Animated Ripple](./images/ripple.png)
-
-2. Various Forms of Sinusoidal waves  
-![Multi Sine Wave](./images/multi_sine.png)
-
-3. Torus, Sphere etc.  
-![A pulsating Torus](./images/pulsating_torus.png)
-
-
+![Animated Ripple](./images/ripple.png)  
+  
+2. Torus, Sphere etc.  
+![A pulsating Torus](./images/pulsating_torus.png)  
+  
+3. Multi Dimensional Sinusoidal waves  
+![Multi Sine Wave](./images/multi_sine.png)  
+  
+  
 Built by following:
 
 1. https://catlikecoding.com/unity/tutorials/basics/building-a-graph/
